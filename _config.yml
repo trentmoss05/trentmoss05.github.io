@@ -1,11 +1,11 @@
 # Site settings
 author: Trent Moss
-title: 
+title: Trent's Blog
 header-img: img/home-bg.png
 email: trentmoss05@gmail.com
 copyright_name: Trent Moss
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Flatiron Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  trentmoss05
