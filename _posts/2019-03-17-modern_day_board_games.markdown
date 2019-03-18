@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Modern Day Board Games"
-date:       2019-03-18 00:29:17 +0000
+date:       2019-03-17 20:29:17 -0400
 permalink:  modern_day_board_games
 ---
 
 
-For as long as I can remember I have loved playing board games, beginning with all the childhood favorites that everyone has played, Don't wake daddy, Monopoly, Sorry, Clue, etc. Many would be surprised to know that there is so much more to board gaming then that. There are thousands and thousands of new board games out there. Even for people that have never been a fan of playing those classic board games, there is a game out there for everyone.
+For as long as I can remember I have enjoyed playing board games, beginning with all the childhood favorites that everyone has played, Don't wake daddy, Monopoly, Sorry, Clue, etc. Many would be surprised to know that there is so much more to board gaming then that. There are thousands and thousands of new board games out there. Even for people that have never been a fan of playing those classic board games, there is a game out there for everyone.
 
 From games such as Viticulture, where each player runs their own vineyard harvesting grapes to create wine, to cooperative games such as pandemic, where everyone is working as a type of scientist to cure diseases from the earth before outbreaks occur spreading the diseases and wiping out everyone. I just recently started to learn of these "modern" board games and have fallen back in love with the hobby.
 
